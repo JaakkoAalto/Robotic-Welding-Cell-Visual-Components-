@@ -10,5 +10,3 @@ Watch the video of the simple project below:
 
 The project was completed in a group of four studetns, each completing the assigment individually
 
-Another video embedding test:
-https://github.com/JaakkoAalto/Robotic-Welding-Cell-Visual-Components-/blob/main/Robotic_welding_cell_VisualComponents_short.mp4
