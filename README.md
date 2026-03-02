@@ -4,8 +4,11 @@ Watch the video of the simple project below:
 <!--
 [![Watch the video](https://raw.githubusercontent.com/JaakkoAalto/Robotic-Welding-Cell-Visual-Components-/main/thumbnail.png)](https://raw.githubusercontent.com/JaakkoAalto/Robotic-Welding-Cell-Visual-Components-/main/Robotic_welding_cell_VisualComponents_short.mp4)
 -->
-<video src="https://raw.githubusercontent.com/JaakkoAalto/Robotic-Welding-Cell-Visual-Components-/main/Robotic_welding_cell_VisualComponents_short.mp4" controls="controls" style="max-width: 100%;">
+<video src="Robotic_welding_cell_VisualComponents_short.mp4" controls="controls" width="100%">
   Your browser does not support the video tag.
 </video>
 
 The project was completed in a group of four studetns, each completing the assigment individually
+
+Another video embedding test:
+https://github.com/JaakkoAalto/Robotic-Welding-Cell-Visual-Components-/blob/main/Robotic_welding_cell_VisualComponents_short.mp4
